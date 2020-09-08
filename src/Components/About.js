@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { ActionYoutubeSearchedFor } from "material-ui/svg-icons";
 
 class About extends Component {
   render() {

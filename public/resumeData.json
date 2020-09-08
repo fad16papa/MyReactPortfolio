@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Francis Decena",
-    "occupation": "Full Stack Web Developer & Founder of Creativo Rare ",
-    "description": "A Full Time Learner & Freelancer. #fadpapa",
+    "occupation": "Full Stack Web Developer & Founder of Creativo Rare",
+    "description": "A Full Time Learner & Freelancer #fadpapa",
     "image": "Me1.jpg",
-    "bio": "My name is Francis, I'm a Full Stack Web Developer. Currently I'm working full time at IPS Securex as Senior Software Developer and also I'm a freelancer. ",
+    "bio": "A Full Stack Web Developer with technical leadership, communication and presentations skills. Experienced in (SDLC) software development life cycle from data gathering, design, building, implementation and to integration. He likes to explore and try new things especially when it comes to development. As a developer he is also a team player who likes to collaborate with his team members and to have brain storming ideas, He is a man of focus and lastly he is full time learner.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "fad16papa@gmail.com",
     "phone": "+65 9339 58 40",
@@ -14,8 +14,8 @@
       "state": "Singapore",
       "zip": "562310"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -45,71 +45,78 @@
     ]
   },
   "resume": {
-    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage": "I'm a tinker and I'm always interested in playing around with new technologies but these are the ones that have really won me over.",
     "education": [
       {
         "school": "Adamson Univesrity",
         "degree": "Bachelor of Science in Information and Technology",
         "graduated": "October 2013",
-        "description": "Graduated with Distinction"
+        "description": " I took my Bachelor of Science in Information and Technology where I achieved a much more thorough education in the underlying theory, concepts, and science behind both software and hardware and also this is where I started to like programming at first it was really frustrating at some point but with the help of my professors and collage friends I managed to survived. It was here that I discovered my passion for scalable application programming, the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
       }
     ],
     "work": [
       {
         "company": "IPS Securex",
         "title": "Senior Software Developer",
-        "years": "Oct 2013 - Present",
-        "description": "System Integraton, Full Stack Development"
+        "years": "Oct 2019 - Present",
+        "description": "It is my first time work abroad so at first I was kind of overwhelemed because of the pressure and adjustment especially in the environment. I missed my family and friends I knew from that moment I need to focused. The company hired me because they need a software developer who is responsible enough that can deliver in tight schedule and it has various of skill sets and experience to finish the project.",
+        "secondDescription": "I have created both frontend and backend of the web application we called it (TMS) Truck Management System. The main process of the application is to study and monitor all the incoming trucks to singapore and also checking their truck loads for any possible prohibited goods. The system compose of different components inorder to work. I have also integrated one of the components of (TMS) Truck Managment System into one of our 3rd party provider of special xray machines for trucks."
       },
       {
         "company": "Accenture Philippines",
-        "title": "Techincal Lead Software Engineer",
+        "title": "Techincal Lead Senior Software Engineer",
         "years": "April 2019 - Oct 2019",
-        "description": "Building MrQ, a gambling website."
+        "description": "I worked as technical lead software engineer at Concierge under Accenture CMT and I'm hanlding two teams one in local shore (Philippines) and the other one is from (Seattle). My main work is to guide and create transition of tech stacks from Node Js and Vanilla Js to .Net Core and React Js to one of their web applications we called it as (Digital Desk).",   
+        "secondDescription": "It tooks us 6 months to complete the phase 1 of the application and we also managed to deployed and implemented it to production. It is a huge web application it was created specifically for O365 Microsoft technical support team of accenture philippines. Besides on that I have also accomplished some projects in Accenture, I have created OCR to analyze all prohibited actions of tech support towards getting the PII's (Personal Identifiable Information) of our clients. I used pytesseract for the OCR and python flask for the API."
       },
       {
         "company": "Philippine Savings Bank",
-        "title": "Techincal Lead Systems Analyst",
+        "title": "Systems Analyst",
         "years": "Nov 2014 - April 2019",
-        "description": "Building MrQ, a gambling website."
+        "description": "This is where I grow as a developer. Being the pioneer developer of the team I learned a lot of experiences, challenges and valuable skills that even today I'm still using it. I have created various systems for the bank most of it focused in messaging platform.",
+        "secondDescription": "My team handled hundred of thousands transactions everyday thru our sms, email and chat application. Our application catered both local and international clients. One of the highlights of my career is that I was assigned to create an OTP secure transaction or we called it as 3D Secure it is a protocol designed to be an additional security layer for online credit and debit card transactions. I'm just the only developer who created the security application and until to this date the bank still using the applications that I have created to processed secured transactions."
       }
     ],
     "skills1": [
       {
-        "name": "React JS",
-        "level": "70%",
+        "name": ".Net",
+        "image": "images/MicrosoftBanner.png",
+        "description": "My first love I worked as .Net Developer for 7 yrs. Security is rock solid and support is always there from Microsoft and mostly the performance is excellent especially the INTELLISENSE!"
+      },
+      {
+        "name": "Node Js",
+        "image": "images/node.jpg",
+        "description": "Node JS is my server-side scripting language of choice its lightweight, fast and reliable. Most of the time I always pair it with react js and redux and also with mongodb. I love and enjoying this MERN stack."
+      },
+      {
+        "name": "React Js",
         "image": "images/react.jpg",
-        "description": "I have used many different database systems and I am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with."
+        "description": "I really like React JS its fast and lightweight together with Redux as state management thats why many developers now a days also likes React JS and Redux as their main tools for front end development framework."
       },
       {
         "name": "Mongo DB",
-        "level": "70%",
         "image": "images/mongo.jpg",
-        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with"
+        "description": "I have used many different database systems and I am educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with"
       },
       {
-        "name": "Node JS",
-        "level": "70%",
-        "image": "images/node.jpg",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects"
+        "name": "Git",
+        "image": "images/git.jpg",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects."
       },
       {
         "name": "Bootstrap 4",
-        "level": "70%",
         "image": "images/bootstrap.jpg",
         "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others."
       },
       {
         "name": "Heroku",
-        "level": "70%",
         "image": "images/heroku.jpg",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment."
+        "description": "I use Heroku as my cloud platform for its being a developer friendly, fast and reliable and also its convenient. I also appreciate its integration with Github for such simple deployment."
       },
       {
-        "name": "Git",
-        "level": "70%",
-        "image": "images/git.jpg",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects."
+        "name": "Python",
+        "image": "images/python.png",
+        "description": "I use Heroku as my cloud platform for its being a developer friendly, fast and reliable and also its convenient. I also appreciate its integration with Github for such simple deployment."
       }
     ]
   },
@@ -143,6 +150,12 @@
         "title": "Netflix Clone",
         "category": "Facebook Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      },
+      {
+        "title": "Devconnector",
+        "category": "Build with ReactJS Redux MongoDB",
+        "image": "devconnector.png",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]

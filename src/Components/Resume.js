@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import GridItem from "./GridItem";
-import GridContainer from "./GridContainer";
 
 class Resume extends Component {
   render() {
@@ -27,18 +25,17 @@ class Resume extends Component {
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
             <p>{work.description}</p>
+            <p>{work.secondDescription}</p>
           </div>
         );
       });
       var skills1 = this.props.data.skills1.map(function (skills) {
         return (
-          // <ul className={"bgrid-quarters s-bgrid-thirds cf"}>
           <div className={"columns feature-item"}>
-            <img className="skill" alt={skills.name} src={skills.image} />
+            <img className={"skill"} alt={skills.name} src={skills.image} />
             <h5>{skills.name}</h5>
             <p>{skills.description}</p>
           </div>
-          // </ul>
         );
       });
     }
@@ -77,7 +74,7 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
+            <p className={"lead center"}>{skillmessage}</p>
           </div>
 
           <div>
