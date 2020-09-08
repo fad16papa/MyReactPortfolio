@@ -116,7 +116,7 @@
       {
         "name": "Python",
         "image": "images/python.png",
-        "description": "I use Heroku as my cloud platform for its being a developer friendly, fast and reliable and also its convenient. I also appreciate its integration with Github for such simple deployment."
+        "description": "I used python one of my projects before where I use pytesseract for OCR and python flask to create an API. I like python its simple, reliable and easy to learn programming language."
       }
     ]
   },
@@ -156,7 +156,7 @@
         "title": "Devconnector",
         "category": "Build with ReactJS Redux MongoDB",
         "image": "devconnector.png",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://developerconnection.herokuapp.com/"
       }
     ]
   },
