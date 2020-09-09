@@ -2,7 +2,7 @@
   "main": {
     "name": "Francis Decena",
     "occupation": "Full Stack Web Developer & Founder of Creativo Rare",
-    "description": "A Full Time Learner & Freelancer #fadpapa",
+    "description": "A Freelancer & Full Time Learner #fadpapa",
     "image": "Me1.jpg",
     "bio": "A Full Stack Web Developer with technical leadership, communication and presentations skills. Experienced in (SDLC) software development life cycle from data gathering, design, building, implementation and to integration. He likes to explore and try new things especially when it comes to development. As a developer he is also a team player who likes to collaborate with his team members and to have brain storming ideas, He is a man of focus and lastly he is full time learner.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -59,22 +59,22 @@
         "company": "IPS Securex",
         "title": "Senior Software Developer",
         "years": "Oct 2019 - Present",
-        "description": "It is my first time work abroad so at first I was kind of overwhelemed because of the pressure and adjustment especially in the environment. I missed my family and friends I knew from that moment I need to focused. The company hired me because they need a software developer who is responsible enough that can deliver in tight schedule and it has various of skill sets and experience to finish the project.",
-        "secondDescription": "I have created both frontend and backend of the web application we called it (TMS) Truck Management System. The main process of the application is to study and monitor all the incoming trucks to singapore and also checking their truck loads for any possible prohibited goods. The system compose of different components inorder to work. I have also integrated one of the components of (TMS) Truck Managment System into one of our 3rd party provider of special xray machines for trucks."
+        "description": "It is my first time work abroad so at first I was kind of overwhelmed because of the pressure and adjustment especially in the environment. I missed my family and friends I knew from that moment I need to focused. The company hired me because they need a software developer who is responsible enough that can deliver in tight schedule and it has various of skill sets and experience to finish the project.",
+        "secondDescription": "I have created both frontend and backend of the web application we called it (TMS) Truck Management System. The main process of the application is to study and monitor all the incoming trucks to Singapore and also checking their truck loads for any possible prohibited goods. The system composed of different components in order to work. I have also integrated one of the components of (TMS) Truck Management System into one of our 3rd party provider of special scanning machines for trucks."
       },
       {
         "company": "Accenture Philippines",
         "title": "Techincal Lead Senior Software Engineer",
         "years": "April 2019 - Oct 2019",
-        "description": "I worked as technical lead software engineer at Concierge under Accenture CMT and I'm hanlding two teams one in local shore (Philippines) and the other one is from (Seattle). My main work is to guide and create transition of tech stacks from Node Js and Vanilla Js to .Net Core and React Js to one of their web applications we called it as (Digital Desk).",   
-        "secondDescription": "It tooks us 6 months to complete the phase 1 of the application and we also managed to deployed and implemented it to production. It is a huge web application it was created specifically for O365 Microsoft technical support team of accenture philippines. Besides on that I have also accomplished some projects in Accenture, I have created OCR to analyze all prohibited actions of tech support towards getting the PII's (Personal Identifiable Information) of our clients. I used pytesseract for the OCR and python flask for the API."
+        "description": "I worked as technical lead software engineer at Concierge under Accenture CMT and I'm handling two teams one in local shore (Philippines) and the other one is from (Seattle). My main work is to guide and create transition of tech stacks from Node Js and Vanilla Js to .Net Core and React Js to one of their web applications we called it as (Digital Desk).",
+        "secondDescription": "It took us 6 months to complete the phase 1 of the application and we also managed to deployed and implemented it to production. It is a huge web application it was created specifically for O365 Microsoft technical support team of Accenture Philippines. Besides on that I have also accomplished some projects in Accenture, I have created an OCR application to monitor and study all prohibited actions of tech support towards getting the PII's (Personal Identifiable Information) of our clients. I used Pytesseract for the OCR and python flask for the API."
       },
       {
         "company": "Philippine Savings Bank",
         "title": "Systems Analyst",
         "years": "Nov 2014 - April 2019",
         "description": "This is where I grow as a developer. Being the pioneer developer of the team I learned a lot of experiences, challenges and valuable skills that even today I'm still using it. I have created various systems for the bank most of it focused in messaging platform.",
-        "secondDescription": "My team handled hundred of thousands transactions everyday thru our sms, email and chat application. Our application catered both local and international clients. One of the highlights of my career is that I was assigned to create an OTP secure transaction or we called it as 3D Secure it is a protocol designed to be an additional security layer for online credit and debit card transactions. I'm just the only developer who created the security application and until to this date the bank still using the applications that I have created to processed secured transactions."
+        "secondDescription": "My team handled hundreds of thousands transactions everyday thru our sms, email and chat application. Our application catered both local and international clients. One of the highlights of my career is that I was assigned to create an OTP secure transaction or we called it as 3D Secure it is a protocol designed to be an additional security layer for online credit and debit card transactions. I'm just the only developer who created the security application and until to this date the bank still using the applications that I have created to processed secured transactions."
       }
     ],
     "skills1": [
@@ -86,12 +86,12 @@
       {
         "name": "Node Js",
         "image": "images/node.jpg",
-        "description": "Node JS is my server-side scripting language of choice its lightweight, fast and reliable. Most of the time I always pair it with react js and redux and also with mongodb. I love and enjoying this MERN stack."
+        "description": "Node JS is my server-side scripting language of choice its lightweight, fast and reliable. Most of the time I always pair it with React Js and Redux and also with MongoDB. I love and enjoying this MERN stack."
       },
       {
         "name": "React Js",
         "image": "images/react.jpg",
-        "description": "I really like React JS its fast and lightweight together with Redux as state management thats why many developers now a days also likes React JS and Redux as their main tools for front end development framework."
+        "description": "I really like React JS its fast and lightweight together with Redux as state management that is why many developers now chooses to work on React JS and Redux as their main tools for front end development framework."
       },
       {
         "name": "Mongo DB",
@@ -116,7 +116,7 @@
       {
         "name": "Python",
         "image": "images/python.png",
-        "description": "I used python one of my projects before where I use pytesseract for OCR and python flask to create an API. I like python its simple, reliable and easy to learn programming language."
+        "description": "I used python one of my projects before that is where I started to like it. I used pytesseract for OCR and python flask to create an API. I like python its simple, reliable and easy to learn programming language."
       }
     ]
   },

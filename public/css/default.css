@@ -635,11 +635,48 @@ dd {
 .pagination .next {
 }
 
+@keyframes moveInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-10rem);
+  }
+  80% {
+    transform: translateX(1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+
+@keyframes moveInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(10rem);
+  }
+  80% {
+    transform: translateX(-1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+
+.animated-columns {
+  animation-name: moveInRight;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
 /*  5. Images  --------------------------------------------------------- */
 
 img {
   max-width: 100%;
   height: auto;
+  animation-name: moveInLeft;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
 }
 img.pull-right {
   margin: 12px 0px 0px 18px;
