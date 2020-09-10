@@ -688,6 +688,13 @@ img.skill {
   max-width: 65%;
 }
 
+img.school {
+  max-width: 65%;
+}
+
+img.work {
+  max-width: 65%;
+}
 /*  6. Buttons  --------------------------------------------------------- */
 
 .button,

@@ -51,6 +51,7 @@
         "school": "Adamson Univesrity",
         "degree": "Bachelor of Science in Information and Technology",
         "graduated": "October 2013",
+        "image": "images/Adamson.jpg",
         "description": " I took my Bachelor of Science in Information and Technology where I achieved a much more thorough education in the underlying theory, concepts, and science behind both software and hardware and also this is where I started to like programming at first it was really frustrating at some point but with the help of my professors and collage friends I managed to survived. It was here that I discovered my passion for scalable application programming, the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
       }
     ],
@@ -59,6 +60,7 @@
         "company": "IPS Securex",
         "title": "Senior Software Developer",
         "years": "Oct 2019 - Present",
+        "image": "images/Ips.png",
         "description": "It is my first time work abroad so at first I was kind of overwhelmed because of the pressure and adjustment especially in the environment. I missed my family and friends I knew from that moment I need to focused. The company hired me because they need a software developer who is responsible enough that can deliver in tight schedule and it has various of skill sets and experience to finish the project.",
         "secondDescription": "I have created both frontend and backend of the web application we called it (TMS) Truck Management System. The main process of the application is to study and monitor all the incoming trucks to Singapore and also checking their truck loads for any possible prohibited goods. The system composed of different components in order to work. I have also integrated one of the components of (TMS) Truck Management System into one of our 3rd party provider of special scanning machines for trucks."
       },
@@ -66,15 +68,17 @@
         "company": "Accenture Philippines",
         "title": "Techincal Lead Senior Software Engineer",
         "years": "April 2019 - Oct 2019",
+        "image": "images/Accenture.png",
         "description": "I worked as technical lead software engineer at Concierge under Accenture CMT and I'm handling two teams one in local shore (Philippines) and the other one is from (Seattle). My main work is to guide and create transition of tech stacks from Node Js and Vanilla Js to .Net Core and React Js to one of their web applications we called it as (Digital Desk).",
-        "secondDescription": "It took us 6 months to complete the phase 1 of the application and we also managed to deployed and implemented it to production. It is a huge web application it was created specifically for O365 Microsoft technical support team of Accenture Philippines. Besides on that I have also accomplished some projects in Accenture, I have created an OCR application to monitor and study all prohibited actions of tech support towards getting the PII's (Personal Identifiable Information) of our clients. I used Pytesseract for the OCR and python flask for the API."
+        "secondDescription": "It took us 6 months to complete the phase 1 of the application and we also managed to deployed and implemented it to production. It is a huge web application and it was created specifically for O365 Microsoft technical support team of Accenture Philippines. Besides on that I have also accomplished some other projects in Accenture, I have created an OCR application to monitor and study all prohibited actions of tech support towards getting the PII's (Personal Identifiable Information) of our clients. I used Pytesseract for the OCR and python flask for the API."
       },
       {
         "company": "Philippine Savings Bank",
         "title": "Technical Lead Systems Analyst",
         "years": "Nov 2014 - April 2019",
+        "image": "images/Psbank.png",
         "description": "This is where I grow as a developer. Being the pioneer developer of the team I learned a lot of experiences, challenges and valuable skills that even today I'm still using it. I have created various systems for the bank most of it focused in messaging platform.",
-        "secondDescription": "My team handled hundreds of thousands transactions everyday thru our sms, email and chat application. Our application catered both local and international clients. One of the highlights of my career is that I was assigned to create an OTP secure transaction or we called it as 3D Secure it is a protocol designed to be an additional security layer for online credit and debit card transactions. I'm just the only developer who created the security application and until to this date the bank still using the applications that I have created to processed secured transactions."
+        "secondDescription": "My team handled hundreds of thousands transactions everyday thru our sms, email and chat application. Our application catered both local and international clients. One of the highlights of my career is that I was assigned to create an OTP secure transaction or we called it as 3D Secure it is a protocol designed to be an additional security layer for online credit and debit card transactions. I'm just the only developer in my team who created the security application and until to this date the bank still using the applications that I have created to processed secured transactions."
       }
     ],
     "skills1": [
@@ -163,12 +167,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Tomorrow belongs to those who prepare for it today.",
+        "user": "Malcolm X"
       }
     ]
   }

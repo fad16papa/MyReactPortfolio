@@ -3,11 +3,18 @@ import React, { Component } from "react";
 class Resume extends Component {
   render() {
     if (this.props.data) {
+      var educationImage = this.props.data.education.image;
+      var educationSchool = this.props.data.education.school;
+      console.log(educationImage, educationSchool);
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function (education) {
         return (
           <div key={education.school}>
-            <h3>{education.school}</h3>
+            <img
+              className={"school"}
+              alt={education.school}
+              src={education.image}
+            />
             <p className="info">
               {education.degree} <span>&bull;</span>
               <em className="date">{education.graduated}</em>
@@ -19,7 +26,7 @@ class Resume extends Component {
       var work = this.props.data.work.map(function (work) {
         return (
           <div key={work.company}>
-            <h3>{work.company}</h3>
+            <img className={"school"} alt={work.company} src={work.image} />
             <p className="info">
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
