@@ -161,6 +161,24 @@
         "category": "Build with ReactJS Redux MongoDB",
         "image": "devconnector.png",
         "url": "https://developerconnection.herokuapp.com/"
+      },
+      {
+        "title": "Paraiso",
+        "category": "Build with React JS Sass",
+        "image": "Paraiso.png",
+        "url": "https://paraisoapp.netlify.app/"
+      },
+      {
+        "title": "Nexter",
+        "category": "Build with React JS Sass",
+        "image": "Nexter.png",
+        "url": "https://nextersiteapp.netlify.app/"
+      },
+      {
+        "title": "Trillo",
+        "category": "Build with React JS Sass",
+        "image": "Trillo.png",
+        "url": "https://trillositeapp.netlify.app/"
       }
     ]
   },
